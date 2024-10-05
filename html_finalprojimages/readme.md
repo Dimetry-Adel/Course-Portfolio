@@ -1,1 +1,1 @@
-Enter file contents here
+This directory has all the images used in the final project.
